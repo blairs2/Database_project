@@ -1,0 +1,10 @@
+INSERT INTO blairs2_db.Label (label_id, label_name) VALUES (1, 'Cactus Jack Records');
+INSERT INTO blairs2_db.Label (label_id, label_name) VALUES (2, 'Rostrum Records');
+INSERT INTO blairs2_db.Label (label_id, label_name) VALUES (3, 'Dreamville');
+INSERT INTO blairs2_db.Label (label_id, label_name) VALUES (4, 'Republic Records');
+INSERT INTO blairs2_db.Label (label_id, label_name) VALUES (5, 'Columbia Records');
+INSERT INTO blairs2_db.Label (label_id, label_name) VALUES (6, 'Syco Music');
+INSERT INTO blairs2_db.Label (label_id, label_name) VALUES (7, 'RCA Records');
+INSERT INTO blairs2_db.Label (label_id, label_name) VALUES (8, 'Warner Bros.');
+INSERT INTO blairs2_db.Label (label_id, label_name) VALUES (9, 'Warner Records');
+INSERT INTO blairs2_db.Label (label_id, label_name) VALUES (10, 'REMember Music');

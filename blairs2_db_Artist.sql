@@ -1,0 +1,10 @@
+INSERT INTO blairs2_db.Artist (artist_id, artist_name, label_id) VALUES (1, 'Travis Scott', 1);
+INSERT INTO blairs2_db.Artist (artist_id, artist_name, label_id) VALUES (2, 'Mac Miller', 2);
+INSERT INTO blairs2_db.Artist (artist_id, artist_name, label_id) VALUES (3, 'J. Cole', 3);
+INSERT INTO blairs2_db.Artist (artist_id, artist_name, label_id) VALUES (4, 'Post Malone', 4);
+INSERT INTO blairs2_db.Artist (artist_id, artist_name, label_id) VALUES (5, 'Chance The Rapper', 7);
+INSERT INTO blairs2_db.Artist (artist_id, artist_name, label_id) VALUES (6, 'Russ', 5);
+INSERT INTO blairs2_db.Artist (artist_id, artist_name, label_id) VALUES (7, 'Childish Gambino', 7);
+INSERT INTO blairs2_db.Artist (artist_id, artist_name, label_id) VALUES (8, 'Metro Boomin', 4);
+INSERT INTO blairs2_db.Artist (artist_id, artist_name, label_id) VALUES (9, 'Camila Cabello', 6);
+INSERT INTO blairs2_db.Artist (artist_id, artist_name, label_id) VALUES (10, 'Khalid', 7);

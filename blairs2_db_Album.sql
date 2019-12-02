@@ -1,0 +1,2 @@
+INSERT INTO blairs2_db.Album (album_id, artist_id, album_name, release_date, num_tracks, label_id, live_recording) VALUES (1, 1, 'Astroworld', '2018-08-03 00:00:00', 17, 1, 0);
+INSERT INTO blairs2_db.Album (album_id, artist_id, album_name, release_date, num_tracks, label_id, live_recording) VALUES (2, 2, 'Swimming', '2018-08-03 00:00:00', 13, 9, 0);

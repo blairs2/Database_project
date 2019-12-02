@@ -1,0 +1,3 @@
+INSERT INTO blairs2_db.Song (song_id, artist_id, genre_id, lyrics, song_name, length) VALUES (1, 1, 7, null, 'STARGAZING', '00:04:33');
+INSERT INTO blairs2_db.Song (song_id, artist_id, genre_id, lyrics, song_name, length) VALUES (2, 1, 7, null, 'CAROUSEL', '00:03:02');
+INSERT INTO blairs2_db.Song (song_id, artist_id, genre_id, lyrics, song_name, length) VALUES (3, 1, 7, null, '5% TINT', '00:03:18');

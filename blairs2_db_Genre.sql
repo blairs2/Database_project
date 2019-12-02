@@ -1,0 +1,12 @@
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (1, 'Alternate');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (2, 'Blues');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (3, 'Classical');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (4, 'Country');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (5, 'Dance');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (6, 'Electronic');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (7, 'Hip-Hop/Rap');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (8, 'Jazz');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (9, 'Pop');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (10, 'R&B/Soul');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (11, 'Rock');
+INSERT INTO blairs2_db.Genre (genre_id, genre) VALUES (12, 'soundtrack');
