@@ -3,6 +3,7 @@ create table if not exists Concert
    concert_id int auto_increment
       primary key,
    city varchar(50) not null,
+   country varchar(50) not null,
    year int not null
 );
 create table if not exists Genre
