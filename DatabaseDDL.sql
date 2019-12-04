@@ -33,7 +33,7 @@ create table if not exists Album
       primary key,
    artist_id int not null,
    album_name varchar(50) not null,
-   release_date timestamp default CURRENT_TIMESTAMP null,
+   release_date date null,
    num_tracks int default 1 not null,
    label_id int not null,
    live_recording tinyint(1) default 0 not null,
@@ -44,7 +44,7 @@ create table if not exists Album
 );
 create table if not exists Artist_album
 (
-   artist_album_id int not null
+   artist_album_id int auto_increment
       primary key,
    artist_id int not null,
    album_id int not null,

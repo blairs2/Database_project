@@ -1,7 +1,7 @@
 insert into Label (label_name) value ("RoadRunner Records")
 insert into Genre (genre) value ("Progressive Rock");
 insert into Artist (artist_name, label_id) value ("Porcupine Tree", 1);
-insert into Album (artist_id, album_name, release_date, num_tracks, label_id, live_recording) value (1, "Anesthetize", '2010-05-20', 19, 1, 0);
+insert into Album (artist_id, album_name, release_date, num_tracks, label_id, live_recording) value (1, "Anesthetize", '2010-05-20', 19, 1, 1);
 insert into Artist_album (artist_id, album_id) value (1, 1);
 insert into Concert (city, country, year) value ("Tilburg", "Netherlands", 2008);
 insert into Group_member (member_name, artist_id) value ("Steven Wilson", 1);
